@@ -2,7 +2,7 @@
 		"name": "Github",
 		"icon": "/images/icon/github.png",
 		"tip": "去 Github 看看",
-		"url": "https://github.com/Traveler114514"
+		"url": "https://github.com/Traveler1145141"
 	},
 	{
 		"name": "BiliBili",
@@ -21,5 +21,11 @@
 		"icon": "/images/icon/email.png",
 		"tip": "来封 Email ~",
 		"url": "mailto:admin@traveler.dpdns.org"
-	}
+	},
+		{
+		"name": "QQ",
+		"icon": "/images/icon/qq.png",
+		"tip": "TBTT官方群聊",
+		"url": "https://qm.qq.com/q/7tNT7ZMvN6"
+	},
 ]
